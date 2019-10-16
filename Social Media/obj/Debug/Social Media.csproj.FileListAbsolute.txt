@@ -1,0 +1,85 @@
+C:\Users\GAR14085410\source\repos\Social Media\Social Media\bin\Debug\Social Media.exe.config
+C:\Users\GAR14085410\source\repos\Social Media\Social Media\bin\Debug\Social Media.exe
+C:\Users\GAR14085410\source\repos\Social Media\Social Media\bin\Debug\Social Media.pdb
+C:\Users\GAR14085410\source\repos\Social Media\Social Media\obj\Debug\Social Media.csprojResolveAssemblyReference.cache
+C:\Users\GAR14085410\source\repos\Social Media\Social Media\obj\Debug\Social_Media.Form1.resources
+C:\Users\GAR14085410\source\repos\Social Media\Social Media\obj\Debug\Social_Media.Properties.Resources.resources
+C:\Users\GAR14085410\source\repos\Social Media\Social Media\obj\Debug\Social Media.csproj.GenerateResource.Cache
+C:\Users\GAR14085410\source\repos\Social Media\Social Media\obj\Debug\Social Media.csproj.CoreCompileInputs.cache
+C:\Users\GAR14085410\source\repos\Social Media\Social Media\obj\Debug\Social Media.exe
+C:\Users\GAR14085410\source\repos\Social Media\Social Media\obj\Debug\Social Media.pdb
+C:\Users\GAR14085410\source\repos\Social Media\Social Media\obj\Debug\Social_Media.DisplayForm.resources
+E:\SM\Social Media\Social Media\bin\Debug\Social Media.exe.config
+E:\SM\Social Media\Social Media\bin\Debug\Social Media.exe
+E:\SM\Social Media\Social Media\bin\Debug\Social Media.pdb
+E:\SM\Social Media\Social Media\obj\Debug\Social Media.csprojResolveAssemblyReference.cache
+E:\SM\Social Media\Social Media\obj\Debug\Social_Media.DisplayForm.resources
+E:\SM\Social Media\Social Media\obj\Debug\Social_Media.Form1.resources
+E:\SM\Social Media\Social Media\obj\Debug\Social_Media.Properties.Resources.resources
+E:\SM\Social Media\Social Media\obj\Debug\Social Media.csproj.GenerateResource.Cache
+E:\SM\Social Media\Social Media\obj\Debug\Social Media.csproj.CoreCompileInputs.cache
+E:\SM\Social Media\Social Media\obj\Debug\Social Media.exe
+E:\SM\Social Media\Social Media\obj\Debug\Social Media.pdb
+E:\SM\Social Media\Social Media\bin\Debug\Hammock.ClientProfile.dll
+E:\SM\Social Media\Social Media\bin\Debug\Newtonsoft.Json.dll
+E:\SM\Social Media\Social Media\bin\Debug\TweetSharp.dll
+E:\SM\Social Media\Social Media\bin\Debug\Hammock.ClientProfile.pdb
+E:\SM\Social Media\Social Media\bin\Debug\Newtonsoft.Json.xml
+E:\SM\Social Media\Social Media\bin\Debug\TweetSharp.pdb
+F:\SM\Social Media\Social Media\obj\Debug\Social Media.csprojAssemblyReference.cache
+F:\SM\Social Media\Social Media\obj\Debug\Social_Media.DisplayForm.resources
+F:\SM\Social Media\Social Media\obj\Debug\Social_Media.Form1.resources
+F:\SM\Social Media\Social Media\obj\Debug\Social_Media.Properties.Resources.resources
+F:\SM\Social Media\Social Media\obj\Debug\Social Media.csproj.GenerateResource.cache
+F:\SM\Social Media\Social Media\obj\Debug\Social Media.csproj.CoreCompileInputs.cache
+F:\SM\Social Media\Social Media\obj\Debug\Social Media.exe
+F:\SM\Social Media\Social Media\obj\Debug\Social Media.pdb
+F:\SM\Social Media\Social Media\bin\Debug\Social Media.exe.config
+F:\SM\Social Media\Social Media\bin\Debug\Social Media.exe
+F:\SM\Social Media\Social Media\bin\Debug\Social Media.pdb
+F:\SM\Social Media\Social Media\bin\Debug\Hammock.ClientProfile.dll
+F:\SM\Social Media\Social Media\bin\Debug\Newtonsoft.Json.dll
+F:\SM\Social Media\Social Media\bin\Debug\TweetSharp.dll
+F:\SM\Social Media\Social Media\bin\Debug\Hammock.ClientProfile.pdb
+F:\SM\Social Media\Social Media\bin\Debug\Newtonsoft.Json.xml
+F:\SM\Social Media\Social Media\bin\Debug\TweetSharp.pdb
+F:\SM\Social Media\Social Media\obj\Debug\Social Media.csproj.CopyComplete
+E:\C#\Social Media\Social Media\Social Media\bin\Debug\Social Media.exe.config
+E:\C#\Social Media\Social Media\Social Media\bin\Debug\Social Media.exe
+E:\C#\Social Media\Social Media\Social Media\bin\Debug\Social Media.pdb
+E:\C#\Social Media\Social Media\Social Media\obj\Debug\Social Media.csprojResolveAssemblyReference.cache
+E:\C#\Social Media\Social Media\Social Media\obj\Debug\Social_Media.DisplayForm.resources
+E:\C#\Social Media\Social Media\Social Media\obj\Debug\Social_Media.Properties.Resources.resources
+E:\C#\Social Media\Social Media\Social Media\obj\Debug\Social Media.csproj.GenerateResource.Cache
+E:\C#\Social Media\Social Media\Social Media\obj\Debug\Social Media.csproj.CoreCompileInputs.cache
+E:\C#\Social Media\Social Media\Social Media\obj\Debug\Social Media.exe
+E:\C#\Social Media\Social Media\Social Media\obj\Debug\Social Media.pdb
+E:\C#\Social Media\Social Media\Social Media\obj\Debug\Social_Media.TweetStats.resources
+F:\C#\Social Media\Social Media\Social Media\bin\Debug\Social Media.exe.config
+F:\C#\Social Media\Social Media\Social Media\bin\Debug\Social Media.exe
+F:\C#\Social Media\Social Media\Social Media\bin\Debug\Social Media.pdb
+F:\C#\Social Media\Social Media\Social Media\obj\Debug\Social Media.csprojAssemblyReference.cache
+F:\C#\Social Media\Social Media\Social Media\obj\Debug\Social_Media.DisplayForm.resources
+F:\C#\Social Media\Social Media\Social Media\obj\Debug\Social_Media.MainForm.resources
+F:\C#\Social Media\Social Media\Social Media\obj\Debug\Social_Media.GraphForm.resources
+F:\C#\Social Media\Social Media\Social Media\obj\Debug\Social_Media.Properties.Resources.resources
+F:\C#\Social Media\Social Media\Social Media\obj\Debug\Social_Media.TweetStats.resources
+F:\C#\Social Media\Social Media\Social Media\obj\Debug\Social Media.csproj.GenerateResource.cache
+F:\C#\Social Media\Social Media\Social Media\obj\Debug\Social Media.csproj.CoreCompileInputs.cache
+F:\C#\Social Media\Social Media\Social Media\obj\Debug\Social Media.exe
+F:\C#\Social Media\Social Media\Social Media\obj\Debug\Social Media.pdb
+E:\C#\Social Media\Social Media\Social Media\obj\Debug\Social_Media.MainForm.resources
+E:\C#\Social Media\Social Media\Social Media\obj\Debug\Social_Media.GraphForm.resources
+D:\Michael's Documents\Desktop\Social Media - Main Project File\Social Media\bin\Debug\Social Media.exe.config
+D:\Michael's Documents\Desktop\Social Media - Main Project File\Social Media\bin\Debug\Social Media.exe
+D:\Michael's Documents\Desktop\Social Media - Main Project File\Social Media\bin\Debug\Social Media.pdb
+D:\Michael's Documents\Desktop\Social Media - Main Project File\Social Media\obj\Debug\Social Media.csprojAssemblyReference.cache
+D:\Michael's Documents\Desktop\Social Media - Main Project File\Social Media\obj\Debug\Social_Media.DisplayForm.resources
+D:\Michael's Documents\Desktop\Social Media - Main Project File\Social Media\obj\Debug\Social_Media.MainForm.resources
+D:\Michael's Documents\Desktop\Social Media - Main Project File\Social Media\obj\Debug\Social_Media.GraphForm.resources
+D:\Michael's Documents\Desktop\Social Media - Main Project File\Social Media\obj\Debug\Social_Media.Properties.Resources.resources
+D:\Michael's Documents\Desktop\Social Media - Main Project File\Social Media\obj\Debug\Social_Media.TweetStats.resources
+D:\Michael's Documents\Desktop\Social Media - Main Project File\Social Media\obj\Debug\Social Media.csproj.GenerateResource.cache
+D:\Michael's Documents\Desktop\Social Media - Main Project File\Social Media\obj\Debug\Social Media.csproj.CoreCompileInputs.cache
+D:\Michael's Documents\Desktop\Social Media - Main Project File\Social Media\obj\Debug\Social Media.exe
+D:\Michael's Documents\Desktop\Social Media - Main Project File\Social Media\obj\Debug\Social Media.pdb
